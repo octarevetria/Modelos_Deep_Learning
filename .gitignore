@@ -1,0 +1,12 @@
+*.csv
+*.pdf
+*.jpg
+Teorico/
+ml-ia-obligatorio/Test/
+ml-ia-obligatorio/kaggle_submissions/
+ml-ia-obligatorio/Generar_Fondos/
+ml-ia-obligatorio/fondos_pgm/
+ml-ia-obligatorio/Faces/
+ml-ia-obligatorio/Background/
+
+
